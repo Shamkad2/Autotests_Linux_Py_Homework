@@ -1,0 +1,9 @@
+folder_in: "/home/shamil/tst"
+folder_out: "/home/shamil/out"
+folder_ext: "/home/shamil/folder1"
+folder_ext2: "/home/shamil/folder2"
+count: 5
+bs: 1M
+type: zip
+
+
